@@ -47,10 +47,6 @@ El proyecto está compuesto por las siguientes clases principales:
 ### Preguntas y Respuestas
 <img src="img-android/image9.png" alt="Pantalla de preguntas" style="border-radius:10px"  width="400"/>
 
-
-
-
-
 ## Instalación
 
 Para instalar y ejecutar este proyecto en tu entorno local:
