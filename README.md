@@ -34,9 +34,15 @@ El proyecto está compuesto por las siguientes clases principales:
 
 ## Capturas de Pantalla
 
-- Pantalla principal del juego.
-- Pantalla de selección de operaciones.
-- Pantalla de preguntas con opciones de respuesta.
+### Pantalla Principal
+![Pantalla principal del juego](img-android/image7.png)
+
+### Selección de Operaciones
+![Pantalla de selección de operaciones](img-android/image3.png)
+
+### Preguntas y Respuestas
+![Pantalla de preguntas](img-android/image9.png)
+
 
 ## Instalación
 
