@@ -36,15 +36,16 @@ El proyecto está compuesto por las siguientes clases principales:
 ## Capturas de Pantalla
 
 ### Pantalla Principal
-
+<!--
 ![Pantalla principal del juego](img-android/image7.png)
-<img src="img-android/image7.png" alt="Pantalla principal del juego" width="400"/>
+-->
+<img src="img-android/image7.png" alt="Pantalla principal del juego" style="border-radius:10px" width="400"/>
 
 ### Selección de Operaciones
-<img src="img-android/image3.png" alt="Pantalla de selección de operaciones" width="400"/>
+<img src="img-android/image3.png" alt="Pantalla de selección de operaciones" style="border-radius:10px"   width="400"/>
 
 ### Preguntas y Respuestas
-<img src="img-android/image9.png" alt="Pantalla de preguntas" width="400"/>
+<img src="img-android/image9.png" alt="Pantalla de preguntas" style="border-radius:10px"  width="400"/>
 
 
 
