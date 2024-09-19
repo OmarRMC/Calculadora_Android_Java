@@ -32,16 +32,22 @@ El proyecto está compuesto por las siguientes clases principales:
 3. El usuario selecciona una de las opciones de respuesta.
 4. Dependiendo de su rendimiento, el jugador puede avanzar al siguiente nivel.
 
+
 ## Capturas de Pantalla
 
 ### Pantalla Principal
+
 ![Pantalla principal del juego](img-android/image7.png)
+<img src="img-android/image7.png" alt="Pantalla principal del juego" width="400"/>
 
 ### Selección de Operaciones
-![Pantalla de selección de operaciones](img-android/image3.png)
+<img src="img-android/image3.png" alt="Pantalla de selección de operaciones" width="400"/>
 
 ### Preguntas y Respuestas
-![Pantalla de preguntas](img-android/image9.png)
+<img src="img-android/image9.png" alt="Pantalla de preguntas" width="400"/>
+
+
+
 
 
 ## Instalación
